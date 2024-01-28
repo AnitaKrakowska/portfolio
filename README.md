@@ -25,8 +25,5 @@ testerka.pl<br>
 remigiuszbednarczyk.pl.pl<br>
 wyszkolewas.com.pl<br>
 
-## My repositories ##
-- https://github.com/AmandaEvert/Challenge_portfolio_anita
-- https://github.com/AmandaEvert/panelscout_robotframework
 
 
