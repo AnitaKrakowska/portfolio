@@ -8,6 +8,7 @@ Lately, I've been spending my evenings exploring the fascinating world of softwa
 * Postman - Testing REST API (Udemy)
 * SQL Fundamentals Course | MySQL (Udemy)
 * Jira Fundamentals Course - Project Management (Udemy)
+* Introduction to Data and SQL (Code First Girls)
   
 ## Tools ##
 - Jira - bug tracker
