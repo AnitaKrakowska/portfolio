@@ -27,6 +27,9 @@ wyszkolewas.com.pl<br>
 
 ## My projects 📋
 [Generic shop](https://skleptest.pl/)
+* [Test scenarios]
+* [Test cases]
+* [Bug report]
 
 
 
