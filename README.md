@@ -9,6 +9,7 @@ Lately, I've been spending my evenings exploring the fascinating world of softwa
 * SQL Fundamentals Course | MySQL (Udemy)
 * Jira Fundamentals Course - Project Management (Udemy)
 * Introduction to Data and SQL (Code First Girls)
+* SQL in 120 minutes (kursysql.pl)
   
 ## Tools ##
 - Jira - bug tracker
