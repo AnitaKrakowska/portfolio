@@ -32,5 +32,8 @@ wyszkolewas.com.pl<br>
 * [Test cases](https://docs.google.com/spreadsheets/d/1ha2tS-9L7fnDpaemDbsx5TsSS8Nkl5w9AeHOrb3DE5c/edit#gid=0)
 * [Bug report](https://docs.google.com/spreadsheets/d/1SdW9LO11lUvvBZVglGHCIcoidZvX8aq4MxClSB2Bbi0/edit#gid=0)
 
+## My other repository ##
+* [ Dare IT Challenge](https://github.com/AmandaEvert/Challenge_portfolio_anita)
+
 
 
